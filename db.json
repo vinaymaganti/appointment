@@ -21,5 +21,23 @@
       "AvailabilityDate" : "2025-05-01",
       "Time" : "14:00"
     }
+  ],
+  "hospitals" : [
+
+    {
+      "id" : "1091",
+      "Name" : "Roswell Pet Hospital",
+      "TimeZone" : "Eastern Standard Time"
+    }
+  ],
+  "Resources" : [
+  {
+    "id" : 1,
+    "Name" : "John Smith"
+  },
+  {
+    "id" : 2,
+    "Name" : "Kevin Paul"
+  }
   ]
 }
