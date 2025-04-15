@@ -1,0 +1,25 @@
+{
+  "schedules": [
+    {
+      "id": 1,
+      "resourceid": "1",
+      "hospitalid" : "1091",
+      "AvailabilityDate" : "2025-05-01",
+      "Time" : "15:00"
+    },
+    {
+      "id": 2,
+      "resourceid": "1",
+      "hospitalid" : "1091",
+      "AvailabilityDate" : "2025-05-01",
+      "Time" : "15:30"
+    },
+    {
+      "id": 2,
+      "resourceid": "1",
+      "hospitalid" : "1091",
+      "AvailabilityDate" : "2025-05-01",
+      "Time" : "14:00"
+    }
+  ]
+}
